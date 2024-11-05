@@ -2,7 +2,7 @@
 export_on_save:
   html: true
 html:
-  embed_local_images: false
+  embed_local_images: true
   embed_svg: true
   offline: false
   toc: true
@@ -36,7 +36,7 @@ print_background: true
 
 > &ensp; &emsp; Proof that, the vertical integrated helicity is equal to minus twice the signed area swept out by the storm relative winds between the surface and height $Z$.
 >
-> ![problem 1](hw1_1.jpg)
+> ![problem 1](./hw1_1.jpg)
 
 &ensp; &emsp; $\mathbb{R}^2$ 上的有向参数曲线段 ($z$ 为参数)
 
